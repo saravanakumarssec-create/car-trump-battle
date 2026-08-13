@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "name": "Super Car",
+        "image": "cards/card01.png",
+        "attack": 90,
+        "defence": 70
+    },
+    {
+        "id": 2,
+        "name": "Thunder Car",
+        "image": "cards/card02.png",
+        "attack": 80,
+        "defence": 85
+    },
+    {
+        "id": 3,
+        "name": "Lightning Car",
+        "image": "cards/card03.png",
+        "attack": 95,
+        "defence": 60
+    },
+    {
+        "id": 4,
+        "name": "Monster Car",
+        "image": "cards/card04.png",
+        "attack": 75,
+        "defence": 90
+    },
+    {
+        "id": 5,
+        "name": "Fire Car",
+        "image": "cards/card05.png",
+        "attack": 88,
+        "defence": 76
+    },
+    {
+        "id": 6,
+        "name": "Speed Car",
+        "image": "cards/card06.png",
+        "attack": 92,
+        "defence": 68
+    },
+    {
+        "id": 7,
+        "name": "Racing Car",
+        "image": "cards/card07.png",
+        "attack": 84,
+        "defence": 82
+    },
+    {
+        "id": 8,
+        "name": "Turbo Car",
+        "image": "cards/card08.png",
+        "attack": 96,
+        "defence": 65
+    },
+    {
+        "id": 9,
+        "name": "Shadow Car",
+        "image": "cards/card09.png",
+        "attack": 78,
+        "defence": 94
+    },
+    {
+        "id": 10,
+        "name": "Power Car",
+        "image": "cards/card10.png",
+        "attack": 91,
+        "defence": 79
+    },
+    {
+        "id": 11,
+        "name": "Rocket Car",
+        "image": "cards/card11.png",
+        "attack": 89,
+        "defence": 73
+    },
+    {
+        "id": 12,
+        "name": "Steel Car",
+        "image": "cards/card12.png",
+        "attack": 72,
+        "defence": 98
+    },
+    {
+        "id": 13,
+        "name": "Storm Car",
+        "image": "cards/card13.png",
+        "attack": 94,
+        "defence": 71
+    },
+    {
+        "id": 14,
+        "name": "Dragon Car",
+        "image": "cards/card14.png",
+        "attack": 97,
+        "defence": 88
+    },
+    {
+        "id": 15,
+        "name": "Phantom Car",
+        "image": "cards/card15.png",
+        "attack": 86,
+        "defence": 93
+    },
+    {
+        "id": 16,
+        "name": "Blaze Car",
+        "image": "cards/card16.png",
+        "attack": 99,
+        "defence": 67
+    },
+    {
+        "id": 17,
+        "name": "Ice Car",
+        "image": "cards/card17.png",
+        "attack": 74,
+        "defence": 96
+    },
+    {
+        "id": 18,
+        "name": "Golden Car",
+        "image": "cards/card18.png",
+        "attack": 93,
+        "defence": 89
+    },
+    {
+        "id": 19,
+        "name": "Silver Car",
+        "image": "cards/card19.png",
+        "attack": 81,
+        "defence": 91
+    },
+    {
+        "id": 20,
+        "name": "Dark Car",
+        "image": "cards/card20.png",
+        "attack": 87,
+        "defence": 84
+    },
+    {
+        "id": 21,
+        "name": "Red Racer",
+        "image": "cards/card21.png",
+        "attack": 90,
+        "defence": 78
+    },
+    {
+        "id": 22,
+        "name": "Blue Racer",
+        "image": "cards/card22.png",
+        "attack": 83,
+        "defence": 87
+    },
+    {
+        "id": 23,
+        "name": "Green Racer",
+        "image": "cards/card23.png",
+        "attack": 79,
+        "defence": 92
+    },
+    {
+        "id": 24,
+        "name": "Black Racer",
+        "image": "cards/card24.png",
+        "attack": 98,
+        "defence": 74
+    },
+    {
+        "id": 25,
+        "name": "White Racer",
+        "image": "cards/card25.png",
+        "attack": 76,
+        "defence": 95
+    },
+    {
+        "id": 26,
+        "name": "Super Racer",
+        "image": "cards/card26.png",
+        "attack": 93,
+        "defence": 81
+    },
+    {
+        "id": 27,
+        "name": "Mega Car",
+        "image": "cards/card27.png",
+        "attack": 96,
+        "defence": 86
+    },
+    {
+        "id": 28,
+        "name": "Ultra Car",
+        "image": "cards/card28.png",
+        "attack": 88,
+        "defence": 97
+    },
+    {
+        "id": 29,
+        "name": "Champion Car",
+        "image": "cards/card29.png",
+        "attack": 100,
+        "defence": 90
+    },
+    {
+        "id": 30,
+        "name": "King Car",
+        "image": "cards/card30.png",
+        "attack": 95,
+        "defence": 99
+    },
+    {
+        "id": 31,
+        "name": "Legend Car",
+        "image": "cards/card31.png",
+        "attack": 99,
+        "defence": 95
+    },
+    {
+        "id": 32,
+        "name": "Ultimate Car",
+        "image": "cards/card32.png",
+        "attack": 100,
+        "defence": 100
+    }
+]
